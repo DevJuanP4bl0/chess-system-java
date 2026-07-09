@@ -3,8 +3,6 @@ package application;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-import com.azul.crs.client.service.GCRotatingLogTailer.Builder;
-
 import chess.ChessException;
 import chess.ChessMatch;
 import chess.ChessPiece;
